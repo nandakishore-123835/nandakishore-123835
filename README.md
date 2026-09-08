@@ -2,7 +2,7 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Python+Developer;Problem+Solver"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Problem+Solver"
     alt="Typing SVG"
   />
 </p>
@@ -280,16 +280,7 @@ An interactive chatbot designed to recommend movies based on
     />
   </a>
 
-  &nbsp;&nbsp;&nbsp;
-
-  <a href="mailto:nandakishoregoudbandameedi@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail"
-      alt="Gmail"
-    />
-  </a>
-
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://github.com/nandakishore-123835">
     <img
@@ -298,7 +289,7 @@ An interactive chatbot designed to recommend movies based on
     />
   </a>
 
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://leetcode.com/u/LlUR3acsKZ/">
     <img
@@ -307,6 +298,15 @@ An interactive chatbot designed to recommend movies based on
     />
   </a>
 
+</p>
+
+<p align="center">
+  <a href="mailto:nandakishoregoudbandameedi@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail"
+      alt="Gmail"
+    />
+  </a>
 </p>
 
 ---
