@@ -272,32 +272,26 @@ An interactive chatbot designed to recommend movies based on
 ## 📫 Let's Connect
 
 <p align="center">
-
   <a href="https://www.linkedin.com/in/nandakishore-goud-023018338/">
     <img
       src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"
       alt="LinkedIn"
     />
   </a>
-
   &nbsp;&nbsp;&nbsp;&nbsp;
-
   <a href="https://github.com/nandakishore-123835">
     <img
       src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"
       alt="GitHub"
     />
   </a>
-
   &nbsp;&nbsp;&nbsp;&nbsp;
-
   <a href="https://leetcode.com/u/LlUR3acsKZ/">
     <img
       src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"
       alt="LeetCode"
     />
   </a>
-
 </p>
 
 <p align="center">
@@ -314,3 +308,7 @@ An interactive chatbot designed to recommend movies based on
 <p align="center">
   ⭐ Thanks for visiting my profile!
 </p>
+
+
+  
+ 
