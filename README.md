@@ -47,20 +47,20 @@ real-world problems.
 
 <p>
   <img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
-    width="55" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+    width="55"
     alt="Python"
   />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
-    width="55" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+    width="55"
     alt="JavaScript"
   />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" 
-    width="55" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+    width="55"
     alt="Java"
   />
 </p>
@@ -71,20 +71,20 @@ real-world problems.
 
 <p>
   <img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
-    width="55" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+    width="55"
     alt="HTML5"
   />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
-    width="55" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+    width="55"
     alt="CSS3"
   />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" 
-    width="55" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+    width="55"
     alt="React"
   />
 </p>
@@ -95,20 +95,20 @@ real-world problems.
 
 <p>
   <img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" 
-    width="55" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+    width="55"
     alt="Node.js"
   />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" 
-    width="55" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
+    width="55"
     alt="Express.js"
   />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" 
-    width="55" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"
+    width="55"
     alt="Flask"
   />
 </p>
@@ -119,20 +119,20 @@ real-world problems.
 
 <p>
   <img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" 
-    width="55" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
+    width="55"
     alt="PostgreSQL"
   />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
-    width="55" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+    width="55"
     alt="MySQL"
   />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" 
-    width="55" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"
+    width="55"
     alt="SQLite"
   />
 </p>
@@ -143,20 +143,20 @@ real-world problems.
 
 <p>
   <img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" 
-    width="55" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"
+    width="55"
     alt="NumPy"
   />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" 
-    width="55" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"
+    width="55"
     alt="Pandas"
   />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img 
-    src="https://cdn.simpleicons.org/scikitlearn/F7931E" 
-    width="55" 
+    src="https://cdn.simpleicons.org/scikitlearn/F7931E"
+    width="55"
     alt="Scikit-learn"
   />
 </p>
@@ -167,26 +167,26 @@ real-world problems.
 
 <p>
   <img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" 
-    width="55" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"
+    width="55"
     alt="Microsoft Azure"
   />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
-    width="55" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+    width="55"
     alt="Git"
   />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
-    width="55" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+    width="55"
     alt="GitHub"
   />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" 
-    width="55" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
+    width="55"
     alt="VS Code"
   />
 </p>
@@ -269,11 +269,12 @@ An interactive chatbot designed to recommend movies based on
 
 ---
 
-## 📫 Connect With Me
+## 📫 Let's Connect
 
 <p align="center">
+
   <a href="https://www.linkedin.com/in/nandakishore-goud-023018338/">
-    <img 
+    <img
       src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"
       alt="LinkedIn"
     />
@@ -282,7 +283,7 @@ An interactive chatbot designed to recommend movies based on
   &nbsp;&nbsp;&nbsp;
 
   <a href="mailto:nandakishoregoudbandameedi@gmail.com">
-    <img 
+    <img
       src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail"
       alt="Gmail"
     />
@@ -291,11 +292,21 @@ An interactive chatbot designed to recommend movies based on
   &nbsp;&nbsp;&nbsp;
 
   <a href="https://github.com/nandakishore-123835">
-    <img 
+    <img
       src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"
       alt="GitHub"
     />
   </a>
+
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://leetcode.com/u/LlUR3acsKZ/">
+    <img
+      src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"
+      alt="LeetCode"
+    />
+  </a>
+
 </p>
 
 ---
