@@ -1,7 +1,10 @@
 <h1 align="center">👋 Hey there! I'm Nandakishore</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Python+Developer;Problem+Solver" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Python+Developer;Problem+Solver"
+    alt="Typing SVG"
+  />
 </p>
 
 ---
@@ -9,7 +12,11 @@
 ## 🎯 About Me
 
 <p align="center">
-  <img src="./developer.png" width="600" alt="Developer illustration">
+  <img 
+    src="./developer.png" 
+    width="600" 
+    alt="Developer illustration"
+  />
 </p>
 
 <p>
@@ -32,79 +39,159 @@ real-world problems.
 
 ---
 
-## 🛠️ Tech Stack
+<h2 align="center">🛠️ Tech Stack</h2>
 
-### 💻 Programming Languages
+<div align="center">
+
+<h3>💻 Programming Languages</h3>
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" alt="Java"/>
+  <img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
+    width="55" 
+    alt="Python"
+  />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
+    width="55" 
+    alt="JavaScript"
+  />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" 
+    width="55" 
+    alt="Java"
+  />
 </p>
 
 <br>
 
-### 🌐 Frontend
+<h3>🌐 Frontend</h3>
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="HTML5"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" alt="CSS3"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" alt="React"/>
+  <img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
+    width="55" 
+    alt="HTML5"
+  />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
+    width="55" 
+    alt="CSS3"
+  />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" 
+    width="55" 
+    alt="React"
+  />
 </p>
 
 <br>
 
-### ⚙️ Backend
+<h3>⚙️ Backend</h3>
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" alt="Node.js"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" alt="Express.js"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50" alt="Flask"/>
+  <img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" 
+    width="55" 
+    alt="Node.js"
+  />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" 
+    width="55" 
+    alt="Express.js"
+  />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" 
+    width="55" 
+    alt="Flask"
+  />
 </p>
 
 <br>
 
-### 🗄️ Database
+<h3>🗄️ Database</h3>
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" alt="PostgreSQL"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="MySQL"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50" alt="SQLite"/>
+  <img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" 
+    width="55" 
+    alt="PostgreSQL"
+  />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
+    width="55" 
+    alt="MySQL"
+  />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" 
+    width="55" 
+    alt="SQLite"
+  />
 </p>
 
 <br>
 
-### 🤖 AI / Machine Learning
+<h3>🤖 AI / Machine Learning</h3>
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" alt="NumPy"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" alt="Pandas"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="50" alt="Scikit-learn"/>
+  <img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" 
+    width="55" 
+    alt="NumPy"
+  />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" 
+    width="55" 
+    alt="Pandas"
+  />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img 
+    src="https://cdn.simpleicons.org/scikitlearn/F7931E" 
+    width="55" 
+    alt="Scikit-learn"
+  />
 </p>
 
 <br>
 
-### ☁️ Cloud & Tools
+<h3>☁️ Cloud & Tools</h3>
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50" alt="Microsoft Azure"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" alt="GitHub"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" alt="VS Code"/>
+  <img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" 
+    width="55" 
+    alt="Microsoft Azure"
+  />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
+    width="55" 
+    alt="Git"
+  />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
+    width="55" 
+    alt="GitHub"
+  />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" 
+    width="55" 
+    alt="VS Code"
+  />
 </p>
+
+</div>
 
 ---
 
@@ -112,61 +199,71 @@ real-world problems.
 
 ### 📧 Email Spam Detection & Security Analyzer
 
-AI-based email spam detection system using **Python, Flask, TF-IDF, SGD Classifier, and SQLite**.
+AI-based email spam detection and security analysis system built using
+**Python, Flask, TF-IDF, SGD Classifier, and SQLite**.
 
-- Detects spam and legitimate emails
-- Uses machine learning for classification
-- Performs rule-based security analysis
-- Provides explainable prediction results
-- Stores email analysis history
+- 📩 Detects spam and legitimate emails
+- 🤖 Machine learning based classification
+- 🔐 Rule-based security analysis
+- 💡 Explainable prediction results
+- 🗄️ Stores email analysis history
+
+---
 
 ### 🎓 College Placement Portal
 
-A web-based platform designed to simplify and manage the **college placement process**.
+A web-based platform designed to simplify and manage the
+**college placement process**.
 
-- Student registration and profiles
-- Job and company information
-- Placement-related management
-- Student and recruiter interaction
-- Database-driven web application
+- 👨‍🎓 Student registration and profiles
+- 🏢 Company and job information
+- 📋 Placement management
+- 🔎 Job and student interaction
+- 🗄️ Database-driven application
+
+---
 
 ### 🌾 AgriShare
 
-A platform designed to help farmers and agricultural communities **share and access agricultural resources**.
+A web-based agricultural resource-sharing platform designed to
+help farmers and agricultural communities share and access resources.
 
-- Resource sharing
-- Agricultural community interaction
-- Web-based platform
-- Focused on solving practical agricultural problems
+- 🌱 Agricultural resource sharing
+- 🤝 Community interaction
+- 🌐 Web-based platform
+- 🚀 Practical solution for agricultural resource management
+
+---
 
 ### 🎬 Movie Recommendation Chatbot
 
-An interactive chatbot that recommends movies based on **user preferences and interests**.
+An interactive chatbot designed to recommend movies based on
+**user preferences and interests**.
 
-- Conversational movie recommendations
-- Preference-based suggestions
-- Interactive chatbot experience
-- AI-based recommendation approach
+- 🎥 Movie recommendations
+- 💬 Conversational interaction
+- 🎯 Preference-based suggestions
+- 🤖 AI-based recommendation approach
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=nandakishore-123835&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400"
-    alt="Nandakishore's GitHub Stats"
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nandakishore-123835&theme=default"
+    alt="GitHub Stats"
   />
 </p>
 
 ---
 
-## 📈 GitHub Streak
+## 📈 GitHub Activity
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=nandakishore-123835&hide_border=true"
-    alt="GitHub Streak"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nandakishore-123835&theme=default"
+    alt="GitHub Profile Details"
   />
 </p>
 
@@ -174,12 +271,31 @@ An interactive chatbot that recommends movies based on **user preferences and in
 
 ## 📫 Connect With Me
 
-<p>
-  💼 <a href="https://www.linkedin.com/in/nandakishore-goud-023018338/">LinkedIn</a>
-  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  📧 <a href="mailto:nandakishoregoudbandameedi@gmail.com">Email</a>
-  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  🐙 <a href="https://github.com/nandakishore-123835">GitHub</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/nandakishore-goud-023018338/">
+    <img 
+      src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"
+      alt="LinkedIn"
+    />
+  </a>
+
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="mailto:nandakishoregoudbandameedi@gmail.com">
+    <img 
+      src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail"
+      alt="Gmail"
+    />
+  </a>
+
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://github.com/nandakishore-123835">
+    <img 
+      src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"
+      alt="GitHub"
+    />
+  </a>
 </p>
 
 ---
